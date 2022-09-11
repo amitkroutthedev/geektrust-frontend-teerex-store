@@ -1,0 +1,30 @@
+.navbarContainer {
+  background-color: rgb(225, 225, 225);
+  display: flex;
+  justify-content: space-between;
+  align-items: "center";
+  padding: 0 2em;
+}
+.products {
+  text-decoration: none;
+  color: black;
+}
+.subNavContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.product {
+  border-bottom: 2px solid black;
+}
+.iconContainer {
+  background-color: rgb(225, 225, 225);
+  padding: 4px 10px;
+  margin: 0 1rem;
+  border: none;
+  /* box-shadow: 1px 1px 2px 0px rgba(75, 74, 74, 0.75); */
+}
+.cartIcon {
+  height: 3rem;
+  width: 3rem;
+}

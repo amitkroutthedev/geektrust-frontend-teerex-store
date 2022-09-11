@@ -1,0 +1,14 @@
+.filterListContainer {
+  margin: 2rem;
+}
+.filterTypeContainer {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  background-color: rgb(224, 217, 217);
+  margin: 0.2rem;
+}
+.filterType {
+  margin: 0 2rem;
+  padding: 1rem 0;
+}
